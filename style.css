@@ -50,9 +50,9 @@ h1, h2 {
 #mainLeft {
     border-right: 1px solid lightgray;
  }
- #developer {
+ h3#developer {
      margin-top: 0;
  }
- #specialist {
+ h3#specialist {
      margin-top: 1.5em;
  }
